@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Sensores_grupo4</string>
+    <string name="app_name">sensor de proximidad</string>
+    <string name="sensor">SENSOR DE PROXIMIDAD</string>
 </resources>
