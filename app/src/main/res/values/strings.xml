@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">sensor de proximidad</string>
     <string name="sensor">SENSOR DE PROXIMIDAD</string>
-    <string name="sensor">SENSOR DE ACELEROMETRO </string>
+    <string name="sensor2">SENSOR DE ACELEROMETRO </string>
 </resources>
