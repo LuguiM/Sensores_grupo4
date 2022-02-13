@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Luis2/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Mejia/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Mejia/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Mejia/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/layout/activity_acelerometro.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Mejia/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/mau_e/AndroidStudioProjects/Sensores_grupo4/app/src/main/res/layout/activity_main.xml" value="0.11503623188405797" />
       </map>
     </option>
